@@ -1,0 +1,16 @@
+@EMailSenderWithSendGrid_HostAddress = http://localhost:5057
+
+POST {{EMailSenderWithSendGrid_HostAddress}}/api/email/send-email/
+Accept: application/json
+Content-Type: application/json
+{
+  "recipient": "test@example.com",
+  "subject": "Welcome!",
+  "body": "Thanks for registering.",
+  "fromMail": "noreply@yourdomain.com",
+  "fromName": "My App"
+}
+
+
+
+###

@@ -1,0 +1,7 @@
+
+2025-07-14 13:37:31.080 +03:00 [WRN] Email sent but X-Message-Id header not found.
+2025-07-14 13:38:04.824 +03:00 [WRN] Email sent but X-Message-Id header not found.
+2025-07-14 13:38:50.172 +03:00 [WRN] Email sent but X-Message-Id header not found.
+2025-07-14 13:39:04.217 +03:00 [WRN] Email sent but X-Message-Id header not found.
+2025-07-14 13:40:31.005 +03:00 [WRN] Email sent but X-Message-Id header not found.
+2025-07-14 13:49:26.019 +03:00 [WRN] Email sent but X-Message-Id header not found.
